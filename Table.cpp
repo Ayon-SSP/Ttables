@@ -18,7 +18,6 @@ int main(){
             cout<<"=";
             cout<<i*n<<endl;
         }
-
     }    
     return 0;
 }
